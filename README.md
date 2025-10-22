@@ -45,6 +45,7 @@
 - 官网：https://www.tornadoweb.org/en/stable/
 - CSDN：https://blog.csdn.net/xiaoyingxixi1989/article/details/149672604
 
+
 # 科学计算与数据科学
 ## Numpy
 
@@ -70,7 +71,6 @@
 **描述**：基于NumPy，提供科学计算中的各种模块，如线性代数、优化、积分、统计等，主要用于数值计算。
 **学习参考**：
 - 官网：https://docs.scipy.org/doc/scipy/
-
 
 ## SymPy
 
@@ -110,33 +110,27 @@
 
 ## UV
 
-**描述**：基于Qt框架的GUI库，功能非常强大，可以创建非常复杂的桌面应用。
+**描述**：一个用 Rust 编写的高性能、一体化（all-in-one）的 Python 包管理器和项目工作流工具。
 **学习参考**：
-- 官网：
+- 官网：https://uv.doczh.com/
 
 ## PIP
 
 **描述**：Python的官方包管理工具。
 **学习参考**：
-- 官网：
+- CSDN：https://blog.csdn.net/m0_75067840/article/details/140570814
 
 ## Conda
 
-**描述**：包管理和环境管理系统，尤其在数据科学领域流行。
+**描述**：包管理和环境管理系统，尤其在数据科学领域流行，如果是个人用的话推荐MiniConda
 **学习参考**：
-- 官网：
-
-## Flake8 / Pylint
-
-**描述**：用于检查代码风格和错误。
-**学习参考**：
-- 官网：
+- 官网：https://docs.conda.io/en/latest/
 
 ## Setuptools
 
 **描述**： 用于构建和分发Python包的基础工具。
 **学习参考**：
-- 官网：
+- 官网：https://setuptools.pypa.io/en/latest/
 
 
 # GUI
