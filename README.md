@@ -105,3 +105,57 @@
 **学习参考**：
 - 官网：https://beautiful-soup-4.readthedocs.io/en/latest/
 
+
+# 开发工具与环境管理
+
+## UV
+
+**描述**：基于Qt框架的GUI库，功能非常强大，可以创建非常复杂的桌面应用。
+**学习参考**：
+- 官网：
+
+## PIP
+
+**描述**：Python的官方包管理工具。
+**学习参考**：
+- 官网：
+
+## Conda
+
+**描述**：包管理和环境管理系统，尤其在数据科学领域流行。
+**学习参考**：
+- 官网：
+
+## Flake8 / Pylint
+
+**描述**：用于检查代码风格和错误。
+**学习参考**：
+- 官网：
+
+## Setuptools
+
+**描述**： 用于构建和分发Python包的基础工具。
+**学习参考**：
+- 官网：
+
+
+# GUI
+
+## PyQt / PySide
+
+**描述**：基于Qt框架的GUI库，功能非常强大，可以创建非常复杂的桌面应用。
+**学习参考**：
+- PyQt官网：https://www.pythonguis.com/
+- PySide官网（后起之秀，Qt官方支持）：https://www.qt.io/development/qt-framework/python-bindings
+
+## Tkinter
+
+**描述**：Python的标准GUI库，无需额外安装，简单易用。
+**学习参考**：
+- 官网：https://docs.python.org/zh-cn/3/library/tk.html
+
+## wxPython
+
+**描述**：基于wxWidgets C++库的Python绑定，另一个成熟的跨平台GUI解决方案。
+**学习参考**：
+- 官网：https://docs.wxpython.org/
