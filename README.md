@@ -78,3 +78,30 @@
 **学习参考**：
 - 官网：https://docs.sympy.org/latest/index.html
 
+
+# 爬虫
+## Scrapy
+
+**描述**：功能强大的网络爬虫框架，用于大规模抓取网页数据。
+**学习参考**：
+- 官网：https://docs.scrapy.org/en/latest/
+- 翻译：https://www.osgeo.cn/scrapy/intro/tutorial.html
+
+## Requests
+
+**描述**：人性化的HTTP库，用于发送各种HTTP请求，是网络编程的必备工具。
+**学习参考**：
+- 官网：https://requests.readthedocs.io/en/latest/
+
+## Httpx
+
+**描述**：一个现代、功能丰富的 Python HTTP 客户端库，旨在为 Python 提供一流的异步和同步 HTTP 客户端支持。。
+**学习参考**：
+- 官网：https://www.python-httpx.org/quickstart/
+
+## Beautiful Soup
+
+**描述**：用于解析HTML和XML文档，从网页中提取数据。
+**学习参考**：
+- 官网：https://beautiful-soup-4.readthedocs.io/en/latest/
+
