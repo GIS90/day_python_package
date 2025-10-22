@@ -45,3 +45,36 @@
 - 官网：https://www.tornadoweb.org/en/stable/
 - CSDN：https://blog.csdn.net/xiaoyingxixi1989/article/details/149672604
 
+# 科学计算与数据科学
+## Numpy
+
+**描述**：提供高性能的多维数组对象和工具，是几乎所有科学计算库的基础。
+**学习参考**：
+- 官网：https://numpy.org/doc/stable/
+- CSDN：https://blog.csdn.net/Z0412_J0103/article/details/144840505
+
+## Pandas
+
+**描述**：提供高性能、易用的数据结构和数据分析工具，尤其是DataFrame，是数据处理的标配。
+**学习参考**：
+- 官网：https://pandas.pydata.org/docs/
+
+## Matplotlib
+
+**描述**：Python最基础、最广泛的2D绘图库，高度可定制。
+**学习参考**：
+- 官网：https://matplotlib.org/stable/index.html
+
+## SciPy
+
+**描述**：基于NumPy，提供科学计算中的各种模块，如线性代数、优化、积分、统计等，主要用于数值计算。
+**学习参考**：
+- 官网：https://docs.scipy.org/doc/scipy/
+
+
+## SymPy
+
+**描述**：处理数学符号，进行精确的代数推导和公式变换，主要用于符号计算。
+**学习参考**：
+- 官网：https://docs.sympy.org/latest/index.html
+
